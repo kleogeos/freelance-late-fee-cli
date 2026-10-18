@@ -40,6 +40,7 @@ The math is easy to get wrong when you're annoyed at a late-paying client (prora
 
 Pairs with:
 - [late-fee-calculator](https://kleogeos.github.io/freelancer-tools/late-fee-calculator.html) — same math, browser version, no install
+- [freelance-late-fee-js](https://github.com/kleogeos/freelance-late-fee-js) — same math, `npx` instead of `pip`, no install
 - [4 late-payment email templates](https://gist.github.com/kleogeos/845669cc43509b012a0ac2aecac00d0a) — free excerpt from the [Freelancer Starter Kit](https://kleogeos.github.io/freelancer-tools/kit.html?src=cli-latefee) (full kit also has proposal, contract, and intake templates)
 
 ### Development
